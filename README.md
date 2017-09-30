@@ -11,3 +11,6 @@
 [Angular 2 開發實戰：進階開發篇 - 延伸學習資源 · GitHub](https://gist.github.com/doggy8088/aa5737a3a39b6f9bc5e30313254121c9#file-ng2advanced_links-md)
 
 [前端工程師不可不知的 Source Maps 應用技巧](https://www.slideshare.net/WillHuangTW/must-known-source-maps-skills)
+
+npm i -g uglify-js
+uglifyjs --compress --mangle --source-map -o main.min.js main.js
