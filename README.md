@@ -10,4 +10,4 @@
 
 [Angular 2 開發實戰：進階開發篇 - 延伸學習資源 · GitHub](https://gist.github.com/doggy8088/aa5737a3a39b6f9bc5e30313254121c9#file-ng2advanced_links-md)
 
-[將 DashboardComponent 需要的初始化程式轉成 TypeScript 版本 ](https://github.com/doggy8088/ng2-advanced/commit/2d9f0b80f985d45d63dd2a4ed4bb706874ff2ff2)
+[前端工程師不可不知的 Source Maps 應用技巧](https://www.slideshare.net/WillHuangTW/must-known-source-maps-skills)
