@@ -12,6 +12,6 @@
 
 [前端工程師不可不知的 Source Maps 應用技巧](https://www.slideshare.net/WillHuangTW/must-known-source-maps-skills)
 
-[UglifyJS 3 套件可以有效壓縮 JS 檔案]npm i -g uglify-js
+UglifyJS 3 套件可以有效壓縮 JS 檔案=>npm i -g uglify-js
 
 uglifyjs --compress --mangle --source-map -o main.min.js main.js
